@@ -31,14 +31,27 @@ title: ERP Extension - Privacy Policy
 
 ## PRIVACY POLICY — ERP EXTENSION
 
+## What leaves your PC
+Some features ask you to sign in with your Google account so they can work.
+After that, the extension keeps a note of:
+- your work email address to which your premium subscription is tied;
+- feature diagnostics data.
+
 ## Privacy Concerns
-- No personal data is collected or stored.
-- No data is sold to or shared with any other organisations or entities.
+- Nothing is sold or shared with outside companies.
 - There is no advertising.
+- No personal correspondence is ever read or stored.
+
+## The error log
+There is a feature error log inside the extension, only used to diagnose bugs and issues.
+
+## Where this extension works
+The extension is primarily created to augment 3 websites: erp.gologity.com, mail.google.com and web.telegram.org.
+There are also minor secondary improvements to truck-tracking websites that are often used in the industry.
 
 ## Generating an email response
-The feature that generates an email response reads the load number from your Gmail search or subject line so it can pull the right load from ERP.  
-It doesn't read email bodies. Nothing from your emails is stored anywhere.
+After signing in to your Google account, this feature can generate an email response based on the status of an ERP load.
+It does not read or store your Gmail emails, conversations, or messages.
 
 ## The AutoHotkey companion
 The extension ships with an optional AutoHotkey script for the Zoom Windows app.  
