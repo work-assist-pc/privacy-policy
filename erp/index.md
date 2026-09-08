@@ -32,33 +32,25 @@ title: ERP Extension - Privacy Policy
 ## PRIVACY POLICY — ERP EXTENSION
 
 ## Privacy Concerns
-This extension has been built with privacy as its number one concern.
-There is an error log that lives inside the extension on your own PC. Nothing from it is ever recorded or sent anywhere.
-- We don't collect, store, or transmit data.
-- We don't sell or share anything, because we don't have anything.
-- We don't use any third-party analytics, advertising, or tracking service.
-- We don't ask you to sign in or create an account.
-
-## Where this extension works
-This extension augments only the following pages with useful actions.  
-- erp.gologity.com
-- mail.google.com
-- web.telegram.org
+- No personal data is collected or stored.
+- No data is sold to or shared with any other organisations or entities.
+- There is no advertising.
 
 ## Generating an email response
 The feature that generates an email response reads the load number from your Gmail search or subject line so it can pull the right load from ERP.  
 It doesn't read email bodies. Nothing from your emails is stored anywhere.
 
 ## The AutoHotkey companion
-The extension ships with an optional AutoHotkey script for the Zoom desktop app.  
+The extension ships with an optional AutoHotkey script for the Zoom Windows app.  
 If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.  
-That check happens on your own PC, inside that script. Nothing from your clipboard is ever recorded or sent anywhere.
+That check happens on your own PC. Nothing from your clipboard is ever recorded or sent anywhere.
 
 ## Removing everything
-Uninstalling the extension removes its stored data with it.  
+To remove the extension, right click it and select "Remove from Chrome".
 To remove the AutoHotkey script, close it and delete its folder.
+To remove the AutoHotkey itself, just uninstall it.
 
 ## Contact
-Questions go to whoever on your team set this up for you. 
+Questions go to whoever on your team helped set this up for you. 
 
 <p class="erp-updated">29 August 2026</p>
