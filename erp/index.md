@@ -33,9 +33,9 @@ title: ERP Extension - Privacy Policy
 
 ## What leaves your PC
 Some features ask you to sign in with your Google account so they can work.
-After that, the extension keeps a note of:
-- your work email address to which your premium subscription is tied;
-- feature diagnostics data.
+After that, the extension keeps:
+- a permanent record of your work email address to which your premium subscription is tied;
+- anonymised feature diagnostics data.
 
 ## Privacy Concerns
 - Nothing is sold or shared with outside companies.
@@ -52,6 +52,16 @@ There are also minor secondary improvements to truck-tracking websites that are 
 ## Generating an email response
 After signing in to your Google account, this feature can generate an email response based on the status of an ERP load.
 It does not read or store your Gmail emails, conversations, or messages.
+
+## The "Reply All" button
+There's a feature that allows you to "Reply All" even if someone sends an email only to you.
+This feature adds all emails from the chain automatically so you don't have to do it manually.
+It does not keep, store, or use those emails for anything else.
+
+## Mark staff emails as read
+This feature builds a list of staff member emails locally on your PC.
+That information is only used by the extension to decide which emails to mark read.
+This data never leaves your computer and is never used for anything else.
 
 ## The AutoHotkey companion
 The extension ships with an optional AutoHotkey script for the Zoom Windows app.  
