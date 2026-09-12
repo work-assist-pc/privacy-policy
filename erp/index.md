@@ -76,4 +76,4 @@ To remove the AutoHotkey itself, just uninstall it.
 ## Contact
 Questions go to whoever on your team helped set this up for you. 
 
-<p class="erp-updated">29 August 2026</p>
+<p class="erp-updated">12 September 2026</p>
