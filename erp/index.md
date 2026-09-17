@@ -63,10 +63,11 @@ This feature builds a list of staff member emails locally on your PC.
 That information is only used by the extension to decide which emails to mark read.
 This data never leaves your computer and is never used for anything else.
 
-## The AutoHotkey companion
-The extension ships with an optional AutoHotkey script for the Zoom Windows app.  
-If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.  
+## Zoom Helper
+The extension ships with an optional to enable a connection between the extension and the Zoom Windows app.  
+If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.
 That check happens on your own PC. Nothing from your clipboard is ever recorded or sent anywhere.
+It also brings forward Zoom's SMS feature when generating an SMS using the same concept - everything is done locally.
 
 ## Removing everything
 To remove the extension, right click it and select "Remove from Chrome".
