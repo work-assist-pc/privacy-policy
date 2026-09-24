@@ -6,7 +6,7 @@ title: ERP Extension - Privacy Policy
 /* The Pages theme prints the repo name ("privacy-policy") as a big
    link above the content. Hiding it here keeps the page looking
    like a document rather than a directory listing. It is the
-   layout's first child, always emitted before our content. */
+   layout's first child, always emitted before the page content. */
 .markdown-body > h1:first-child { display: none; }
 
 /* The document title. Centred, and without the horizontal rule
