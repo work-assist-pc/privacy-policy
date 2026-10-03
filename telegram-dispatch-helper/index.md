@@ -55,11 +55,12 @@ It sends only:
 
 The server keeps:
 - which copies were online, for the last hour;
-- your subscription's record: your Telegram account id, your Stripe customer and subscription ids, the subscription's status and the date it is paid until.
+- your subscription's record: your Telegram account id, when your free trial started, and, once you subscribe, your Stripe customer and subscription ids, the subscription's status and the date it is paid until.
 
 The server never receives a Telegram message, a load, or anything from the ERP.
 
 ## Payments
+Each Telegram account gets one 7-day free trial, with no card needed. It starts the first time you switch the extension on.
 Subscriptions are paid through Stripe, on Stripe's own checkout page.
 Your card details go to Stripe only; the extension and our server never see them.
 Stripe's own privacy policy applies to what you enter there.
@@ -80,4 +81,4 @@ This extension is not made by, endorsed by or affiliated with Telegram or Logity
 ## Contact
 Contact the developer through the extension's Chrome Web Store page.
 
-<p class="tdh-updated">3 October 2026</p>
+<p class="tdh-updated">4 October 2026</p>
