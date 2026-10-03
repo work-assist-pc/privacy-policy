@@ -72,12 +72,12 @@ Stripe's own privacy policy applies to what you enter there.
 ## Removing everything
 To remove the extension, right-click its icon and select "Remove from Chrome". Everything it kept on your PC — the Telegram login, the API id and hash, the History and the settings — is deleted with it.
 Cancelling your subscription is done from the Subscription box in the extension's Setup page.
-To have your subscription record deleted from our server, ask us using the contact below.
+To have your subscription record deleted from our server, contact the developer.
 
 ## Not affiliated
 This extension is not made by, endorsed by or affiliated with Telegram or Logity.
 
 ## Contact
-Questions go to whoever helped set this up for you.
+Contact the developer through the extension's Chrome Web Store page.
 
 <p class="tdh-updated">3 October 2026</p>
