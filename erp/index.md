@@ -32,15 +32,15 @@ title: ERP Extension - Privacy Policy
 ## PRIVACY POLICY — ERP EXTENSION
 
 ## What leaves your PC
-Some features ask you to sign in with your Google account so they can work.
+Some features ask you to sign in with your Google account and check your internet connection so they can work.
 After that, the extension keeps:
-- a permanent record of your work email address to which your premium subscription is tied;
+- a permanent record of your work email address;
 - anonymised feature diagnostics data.
 
-## Privacy Concerns
+## Privacy concerns
 - Nothing is sold or shared with outside companies.
 - There is no advertising.
-- No personal correspondence is ever read or stored.
+- No correspondence is ever read or stored.
 
 ## The error log
 There is a feature error log inside the extension, only used to diagnose bugs and issues.
@@ -63,17 +63,15 @@ This feature builds a list of staff member emails locally on your PC.
 That information is only used by the extension to decide which emails to mark read.
 This data never leaves your computer and is never used for anything else.
 
-## The AutoHotkey companion
-The extension ships with an optional AutoHotkey script for the Zoom Windows app.  
-If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.  
-That check happens on your own PC. Nothing from your clipboard is ever recorded or sent anywhere.
+## The Zoom helper
+The extension ships with an optional Windows script for the Zoom Windows app.
+If you install and run it, it tries to help with dialing a phone number and sending SMS.
+That checks happen on your own PC. Nothing is ever recorded or sent anywhere.
 
 ## Removing everything
 To remove the extension, right click it and select "Remove from Chrome".
-To remove the AutoHotkey script, close it and delete its folder.
-To remove the AutoHotkey itself, just uninstall it.
 
 ## Contact
 Questions go to whoever on your team helped set this up for you. 
 
-<p class="erp-updated">3 October 2026</p>
+<p class="erp-updated">10 October 2026</p>
